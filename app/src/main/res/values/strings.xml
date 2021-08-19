@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">User profile Management</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">FORGOT PASSWORD ?</string>
+</resources>
